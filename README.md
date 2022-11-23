@@ -13,8 +13,8 @@ here the source of raw data: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
 
 pyhton_file: https://drive.google.com/file/d/1UcoQNJtXLxLjx0xItKPWC95l6Z5rsVyw/view?usp=sharing
 
-[SQLCODE_G6.txt](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893182/SQLCODE_G6.txt)
+sql_file: [SQLCODE_G6.txt](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893182/SQLCODE_G6.txt)
 
-[dashboard_G6.xlsx](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893176/dashboard_G6.xlsx)
+excel_file: [dashboard_G6.xlsx](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893176/dashboard_G6.xlsx)
 
 [World Electricity Analysis_G6.pptx](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893177/World.Electricity.Analysis_G6.pptx)
