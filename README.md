@@ -4,9 +4,14 @@
 * transmission loss across the world and getting trends &amp; insights.
 
 ## Data Source:
-Extract the data from the world bank website in json file:
+Extract the data from the world bank website in:
 
 here the source of raw data: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
+
+
+## Notebooks:
+
+pyhton_file: https://drive.google.com/file/d/1UcoQNJtXLxLjx0xItKPWC95l6Z5rsVyw/view?usp=sharing
 
 [SQLCODE_G6.txt](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893182/SQLCODE_G6.txt)
 
