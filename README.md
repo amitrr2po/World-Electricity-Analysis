@@ -21,7 +21,6 @@ sql_file: [SQLCODE_G6.txt](https://github.com/amitrr2po/World-Electricity-Analys
 
 excel_file: [dashboard_G6.xlsx](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893176/dashboard_G6.xlsx)
 
-[World Electricity Analysis_G6.pptx](https://github.com/amitrr2po/World-Electricity-Analysis/files/9893177/World.Electricity.Analysis_G6.pptx)
 
 
 
